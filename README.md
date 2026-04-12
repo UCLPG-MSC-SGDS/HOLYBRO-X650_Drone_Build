@@ -6,5 +6,7 @@ A significant part of this project involves a lot of experimentation and getting
 
 The process for creating this 650mm diameter quadcopter is experimental serving as a learning experience as the long-term aim beyond this project will be to build another drone with top-tier and high-end components for performing much complex tasks.
 
+Currently in the process of securing the necessary components and drone to start the project. Please see the following page containing the [**Bill of Materials**]().
+
 More updates coming soon.
 
