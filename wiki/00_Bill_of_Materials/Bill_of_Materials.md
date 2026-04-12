@@ -4,7 +4,7 @@ This page contains a comprehensive list of items used to construct the drone. Al
 
 ## List of materials (as of 12/04/2026)
 </br>
-*Drone*
+Drone
 
 |Component|Type|Quantity|Price|Source|
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ This page contains a comprehensive list of items used to construct the drone. Al
 |1x6S Tattu 10000mAh 22.2V LiPo Battery|Component|1|£195.00|[3DXR](https://www.3dxr.co.uk/electronics-c78/batteries-c144/gensace-gens-ace-tattu-30c-10000mah-6s1p-22-2v-lipo-with-xt90-s-p3790)|
 
 </br>
-**Companion Computer for Drone**
+Companion Computer for Drone
 
 |Component|Type|Quantity|Price|Source|
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ This page contains a comprehensive list of items used to construct the drone. Al
 |NVIDIA Jetson Orin Nano (8GB RAM)|Electronics|1|£228.95|[Amazon](https://www.amazon.co.uk/NVIDIA-Jetson-Orin-Nano-Developer/dp/B0BZJTQ5YP/ref=sr_1_3?crid=2ZNG7GFE88N9V&dib=eyJ2IjoiMSJ9.fvPUckxwGucybp4TNHp3l5vUTQdUWv3qqmlcUrfOQUv0IoYZGk8agooUbL9SdK-edzI0aHNDuCFQZqa3lZuP4NkgPooQgr6o3ko60Y9cpQbMYjU8_KmbmyjOxKgcAmK4Sp6ULXpqCuPcH5FLwSh8uLiD9zRzCTMX1byDlbSx1UNjuE99Gigr-WJCkml5BqLOOnvr-Au11uYVido2cgCZ2kEPrB037xFIwrgLGe6d65w.siECAx8j2p_J7dGvQBXtiycAwL5X5OFhy6k6fFRJaqY&dib_tag=se&keywords=jetson%2Borin%2Bnano&qid=1776007527&sprefix=jetson%2Caps%2C335&sr=8-3&ufe=app_do%3Aamzn1.fos.d7e5a2de-8759-4da3-993c-d11b6e3d217f&th=1)|
 
 </br>
-**Remote Controller**
+Remote Controller
 
 |Component|Type|Quantity|Price|Source|
 |---|---|---|---|---|
 |SIYI MK15 Agriculture FPV Combo|Controller|1|£470.00|[3DXR](https://www.3dxr.co.uk/radio-gear-c33/transmitters-c58/siyi-technology-siyi-mk15-agriculture-p5612)
 
 </br>
-**Ground Control Point & Station**
+Ground Control Point & Station
 
 |Component|Type|Quantity|Price|Source|
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ HOLYBRO H-RTK F9P Base (Full package)|Component|1|£440|[3DXR](https://www.3dxr.
 |HOLYBRO DroneCAN H-RTK F9P Helical|Component|1|£439.99|[3DXR](https://www.3dxr.co.uk/autopilots-c2/fc-gps-rtk-c456/holybro-dronecan-h-rtk-f9p-helical-p5539)
 
 </br>
-**Miscellaneous**
+Miscellaneous
 
 |Component|Type|Quantity|Price|Source|
 |---|---|---|---|---|
