@@ -4,7 +4,7 @@ This page contains a comprehensive list of items used to construct the drone. Al
 
 ## List of materials (as of 12/04/2026)
 </br>
-**Drone**
+*Drone*
 
 |Component|Type|Quantity|Price|Source|
 |---|---|---|---|---|
