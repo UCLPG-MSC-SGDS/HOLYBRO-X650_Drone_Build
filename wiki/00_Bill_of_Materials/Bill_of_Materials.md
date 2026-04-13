@@ -53,13 +53,31 @@ HOLYBRO H-RTK F9P Base (Full package)|Component|1|£440|[3DXR](https://www.3dxr.
 
 |Component|Type|Quantity|Price|Source|
 |---|---|---|---|---|
+|3xLiquid Soldering Pen|Flux|1|£5.99|[Amazon](https://www.amazon.co.uk/dp/B0C7CJ7BX2?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_0)|
+|Digital Soldering Iron Station|Gadget|1|£36.47|[Amazon](https://www.amazon.co.uk/dp/B08YDG9LYP?ref_=ppx_hzod_title_dt_b_fed_asin_title_1_0&th=1)|
+|Soldering Fume Extractor Device|Gadget|1|£36.99|[Amazon](https://www.amazon.co.uk/dp/B0DB7ZHXHN?ref_=ppx_hzod_title_dt_b_fed_asin_title_1_2&th=1)|
 |Handheld Label Printer|Gadget|1|£14.99|[Amazon](https://www.amazon.co.uk/dp/B0F9KS1SVV?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|
+|LiPo Battery Charger Device|Gadget|1|£29.99|Amazon|
+|Heat Gun|Gadget|1|£14.39|Amazon|
+|Electrical Multimeter Tester|Gadget|1|£13.99|[Amazon](https://www.amazon.co.uk/dp/B0DKXTR485?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|
+|VIFLY Smoke Stopper|Gadget|1|£12.99|[Amazon](https://www.amazon.co.uk/dp/B08CCPTZYB?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_0)|
 |10xMR30 Male-Female Connector Plugs|Connector|1|£12.99|[Amazon](https://www.amazon.co.uk/dp/B0B8YSKSCN?ref=ppx_yo2ov_dt_b_fed_asin_title)|
 |12xXT30 Male-Female Connectors Plugs|Connector|1|£6.99|[Amazon](https://www.amazon.co.uk/dp/B0FVLWRYXX?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|
+|20xXT60 Male-Female Connector Plugs|Connector|1|£5.99|[Amazon](https://www.amazon.co.uk/dp/B07N1N2C94?ref_=ppx_hzod_title_dt_b_fed_asin_title_1_3)|
 |2xXT60 Parallel Battery Connector Cable 14AWG|Connector|1|£8.99|[Amazon](https://www.amazon.co.uk/dp/B0D8KDHLWN?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|
+|12AWG 2.5m Silicone Cable Extension|Wires|1|£11.99|[Amazon](https://www.amazon.co.uk/dp/B0CZRGKBHH?ref_=ppx_hzod_title_dt_b_fed_asin_title_1_6&th=1)|
 |18AWG 2.5m Silicone Cable Extension|Wires|1|£6.99|[Amazon](https://www.amazon.co.uk/dp/B0CZRGH4CT?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|
 |16AWG 2.5m Silicone Extension Lead|Wires|1|£7.99|[Amazon](https://www.amazon.co.uk/dp/B0CRVMJQJF?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|
 |24AWG (Multi-Colour) Silicone Extension Lead|Wires|1|£10.69|[Amazon](https://www.amazon.co.uk/dp/B0C7T9YK2N?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|
+|25 Pack of M3 Nuts|Nuts & Bolts|1|£5.49|[Amazon](https://www.amazon.co.uk/dp/B0C6D5CTSR?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|
+|450 piece of M3 Hexagon Socket & Screws|Nuts & Bolts|1|£7.99|[Amazon](https://www.amazon.co.uk/dp/B0DQ3BYBLQ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|
+|Precision Screwdriver Set|Mechanical Tool|1|£24.99|[Amazon](https://www.amazon.co.uk/dp/B0D2HGJFL2?ref_=ppx_hzod_title_dt_b_fed_asin_title_1_1&th=1)|
+|Cable Stripper|Mechanical Tool|1|£16.99|[Amazon](https://www.amazon.co.uk/dp/B094FDRLRS?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_1)|
+|6" Long Nose Pliers|Mechanical Tool|1|£4.99|[Amazon](https://www.amazon.co.uk/dp/B004TRSZJS?ref_=ppx_hzod_title_dt_b_fed_asin_title_1_2&th=1)|
+|Precision Wire Cutter|Mechanical Tool|1|£7.79|[Amazon](https://www.amazon.co.uk/dp/B0777F3CNC?ref_=ppx_hzod_title_dt_b_fed_asin_title_1_5&th=1)|
+|500xZip Ties|Securing Device|1|£7.26|[Amazon](https://www.amazon.co.uk/dp/B0BFWJZ4KW?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_2)|
+|127xHeat Shrink Sleeving|Securing Device|1|£3.79|[Amazon](https://www.amazon.co.uk/dp/B0DP6TWW3X?ref_=ppx_hzod_title_dt_b_fed_asin_title_1_0)|
+|3m Double-Sided Heavy Tape|Securing Device|1|£9.99|[Amazon](https://www.amazon.co.uk/dp/B0FF9TN712?ref_=ppx_hzod_title_dt_b_fed_asin_title_1_4&th=1)|
 
 </br>
-This section will be continuously updated over time as new information on components becomes available.
+This section will be continuously updated over time as new information on components becomes available. Some prices for items, particularly, those from [Amazon UK](https://www.amazon.co.uk/ref=nav_logo) are subject to changes.
