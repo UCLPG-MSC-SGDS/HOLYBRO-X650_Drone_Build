@@ -59,6 +59,7 @@ Miscellaneous
 |Handheld Label Printer|Gadget|1|£14.99|[Amazon](https://www.amazon.co.uk/dp/B0F9KS1SVV?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|
 |LiPo Battery Charger Device|Gadget|1|£29.99|Amazon|
 |Heat Gun|Gadget|1|£14.39|Amazon|
+|Glue Gun with 50xGlue Sticks|Gadget|1|£4.99|SHEIN|
 |Electrical Multimeter Tester|Gadget|1|£13.99|[Amazon](https://www.amazon.co.uk/dp/B0DKXTR485?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|
 |VIFLY Smoke Stopper|Gadget|1|£12.99|[Amazon](https://www.amazon.co.uk/dp/B08CCPTZYB?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_0)|
 |10xMR30 Male-Female Connector Plugs|Connector|1|£12.99|[Amazon](https://www.amazon.co.uk/dp/B0B8YSKSCN?ref=ppx_yo2ov_dt_b_fed_asin_title)|
