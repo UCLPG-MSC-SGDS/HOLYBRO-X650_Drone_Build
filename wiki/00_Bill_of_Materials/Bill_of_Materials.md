@@ -74,6 +74,7 @@ Miscellaneous
 |Precision Screwdriver Set|Mechanical Tool|1|£24.99|[Amazon](https://www.amazon.co.uk/dp/B0D2HGJFL2?ref_=ppx_hzod_title_dt_b_fed_asin_title_1_1&th=1)|
 |Cable Stripper|Mechanical Tool|1|£16.99|[Amazon](https://www.amazon.co.uk/dp/B094FDRLRS?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_1)|
 |6" Long Nose Pliers|Mechanical Tool|1|£4.99|[Amazon](https://www.amazon.co.uk/dp/B004TRSZJS?ref_=ppx_hzod_title_dt_b_fed_asin_title_1_2&th=1)|
+|Dupont Crimper with 60xJST Servo Connectors|Mechanical Tool|1|£21.98|[Amazon](https://www.amazon.co.uk/dp/B0BC45VDMC?ref=ppx_yo2ov_dt_b_fed_asin_title)|
 |Precision Wire Cutter|Mechanical Tool|1|£7.79|[Amazon](https://www.amazon.co.uk/dp/B0777F3CNC?ref_=ppx_hzod_title_dt_b_fed_asin_title_1_5&th=1)|
 |500xZip Ties|Securing Device|1|£7.26|[Amazon](https://www.amazon.co.uk/dp/B0BFWJZ4KW?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_2)|
 |127xHeat Shrink Sleeving|Securing Device|1|£3.79|[Amazon](https://www.amazon.co.uk/dp/B0DP6TWW3X?ref_=ppx_hzod_title_dt_b_fed_asin_title_1_0)|
