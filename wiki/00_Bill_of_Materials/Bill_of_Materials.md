@@ -22,6 +22,13 @@ Drone
 |1x6S Tattu 10000mAh 22.2V LiPo Battery|Component|1|£195.00|[3DXR](https://www.3dxr.co.uk/electronics-c78/batteries-c144/gensace-gens-ace-tattu-30c-10000mah-6s1p-22-2v-lipo-with-xt90-s-p3790)|
 
 </br>
+Remote Controller
+
+|Component|Type|Quantity|Price|Source|
+|---|---|---|---|---|
+|SIYI MK15 Agriculture FPV Combo|Controller|1|£470.00|[3DXR](https://www.3dxr.co.uk/radio-gear-c33/transmitters-c58/siyi-technology-siyi-mk15-agriculture-p5612)|
+
+</br>
 Companion Computer for Drone
 
 |Component|Type|Quantity|Price|Source|
@@ -30,23 +37,14 @@ Companion Computer for Drone
 |NVIDIA Jetson Orin Nano (8GB RAM)|Electronics|1|£228.95|[Amazon](https://www.amazon.co.uk/NVIDIA-Jetson-Orin-Nano-Developer/dp/B0BZJTQ5YP/ref=sr_1_3?crid=2ZNG7GFE88N9V&dib=eyJ2IjoiMSJ9.fvPUckxwGucybp4TNHp3l5vUTQdUWv3qqmlcUrfOQUv0IoYZGk8agooUbL9SdK-edzI0aHNDuCFQZqa3lZuP4NkgPooQgr6o3ko60Y9cpQbMYjU8_KmbmyjOxKgcAmK4Sp6ULXpqCuPcH5FLwSh8uLiD9zRzCTMX1byDlbSx1UNjuE99Gigr-WJCkml5BqLOOnvr-Au11uYVido2cgCZ2kEPrB037xFIwrgLGe6d65w.siECAx8j2p_J7dGvQBXtiycAwL5X5OFhy6k6fFRJaqY&dib_tag=se&keywords=jetson%2Borin%2Bnano&qid=1776007527&sprefix=jetson%2Caps%2C335&sr=8-3&ufe=app_do%3Aamzn1.fos.d7e5a2de-8759-4da3-993c-d11b6e3d217f&th=1)|
 
 </br>
-Remote Controller
-
-|Component|Type|Quantity|Price|Source|
-|---|---|---|---|---|
-|SIYI MK15 Agriculture FPV Combo|Controller|1|£470.00|[3DXR](https://www.3dxr.co.uk/radio-gear-c33/transmitters-c58/siyi-technology-siyi-mk15-agriculture-p5612)
-
-</br>
 Ground Control Point & Station
 
 |Component|Type|Quantity|Price|Source|
 |---|---|---|---|---|
-|Lenovo X260 ThinkPad (12") WindowOS|Laptop|1|N/A|Not Applicable|
-|Lenovo X260 Li-Ion Battery|Component|1|£28.49|[Amazon](https://www.amazon.co.uk/BORSCELLOR-68-0C52862-0C52861-ThinkPad/dp/B0DT6RMKFX/ref=sr_1_1_sspa?crid=2UGE3QUNW90O0&dib=eyJ2IjoiMSJ9.NfMhKn63wuQTrDvuMmvhRepcS5TU0CoEcov2q5lWzUqiFvRD_-2YZ58kn_Jjj6SbJTeNoCAuq37YEkdj7o5EtHkMxONzWJMimB-3AlCoOfMVVjCoIrgdQZBJyC_VktpYVhScGPY30NwnAJao0yuQsSL6wF2rcxu3Sjgow3xfgPfQjCbfO7XeTI4nWnH4knfXqx9fKSp2X5AiYOz7KErBdPhZl2wLJ8xdbinFbftPooU.X9JPoF_4fbuiANu2MHzW2mNK_i63iLmZczd4aXc8H9Y&dib_tag=se&keywords=lenovo+laptop+x260+battery&qid=1776008873&sprefix=lenovo+laptop+x260+battery%2Caps%2C283&sr=8-1-spons&aref=sPPNPW7yPU&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)|
+|Mac Mini (Intel) 32GB RAM 500GB Storage|Desktop|1|N/A|Apple|
+|IPad Pro 128GB Storage|TouchPad|1|N/A|Apple|
 |Amazon Basics 50-inch Tripod Stand|Component|1|£12.99|[Amazon](https://www.amazon.co.uk/AmazonBasics-127cm-Lightweight-Tripod-Bag/dp/B00XI87KV8/ref=sr_1_4?crid=3J4CT5K007UOK&dib=eyJ2IjoiMSJ9.L_32Ra30AOOtgTD6pSs_iGiMUrXNbrWsEqije7_u9vkShMWDEZAOE3fwaxZ7kkXKxTKATDjV0uS4jJUWNt96eWQiZyFNr4bo89rP3GVxIuoE2OXKg9yu_xFY9FXIZelqc0nYVBMKzUELdTsoreK4PLETi7U60g3tWkryg4Si0bJdRtnGvwW8sjw6789ZWIBNM8kV2JABUGzSj1LeX3qjwbB8klLMXZMH3FHforXQOVfc6JeAZE2HTMFcrkyxChPWr52-GtAiB8eXbjTMEnokk9AZYAkhwbaF95tevhnLBgU.eK106l_Bem3Cgo1qjnwmJmGUDgJpn8b73mEh6n60vaU&dib_tag=se&keywords=amazon%2Btripod%2Bstand&qid=1776009239&s=electronics&sprefix=%2Celectronics%2C349&sr=1-4&th=1)|
 HOLYBRO H-RTK F9P Base (Full package)|Component|1|£440|[3DXR](https://www.3dxr.co.uk/autopilots-c2/fc-gps-rtk-c456/holybro-h-rtk-f9p-base-p3869)|
-|HOLYBRO DroneCAN H-RTK F9P Rover|Component|1|£299.99|[3DXR](https://www.3dxr.co.uk/sensors-c5/gps-gnss-c89/holybro-dronecan-h-rtk-f9p-rover-p5545)
-|HOLYBRO DroneCAN H-RTK F9P Helical|Component|1|£439.99|[3DXR](https://www.3dxr.co.uk/autopilots-c2/fc-gps-rtk-c456/holybro-dronecan-h-rtk-f9p-helical-p5539)
 
 </br>
 Miscellaneous
